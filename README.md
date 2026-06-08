@@ -41,4 +41,4 @@ Espero que você goste de acompanhar os meus projetos por aqui.
   
 <div>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="
-  <a href="https://www.linkedin.com/in/tárcio-silva-9547a2316?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tárcio-silva-9547a2316?target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
