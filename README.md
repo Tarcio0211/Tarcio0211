@@ -27,6 +27,9 @@ Espero que você goste de acompanhar os meus projetos por aqui. :)
 - **Bancos de Dados & ORM:**<br>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
 
+- **Integrações & APIs:**<br>
+<img src="https://img.shields.io/badge/Consumo%20de%20APIs%20REST-0073EC?style=for-the-badge&logo=api&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+
 - **Controle de Versão:**<br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
